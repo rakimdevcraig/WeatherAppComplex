@@ -3,7 +3,7 @@ I added to my existing weather app by adding historical articles published in th
 
 ![pic](img/pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/WeatherAppComplex/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API's
